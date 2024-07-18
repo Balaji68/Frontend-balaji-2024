@@ -1,0 +1,29 @@
+div {
+    background-color: aliceblue;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+    min-width: fit-content;
+    border-radius: 10px;
+    border-style: outset;
+    height: ;
+    background-color: rgb(194, 211, 225);
+    display: ;
+    border-radius: 5px;
+    padding: 15px;
+    margin-left: %;
+    margin-right: %;
+    margin-top: ;
+    box-shadow: 0 0 5px 5px rgb(141, 6, 144);
+
+.img {
+    width: 10%;
+}
+}
+
+div:hover {
+
+    background-color: aliceblue;
+    transition: 500ms;
+    cursor: pointer;
+}
